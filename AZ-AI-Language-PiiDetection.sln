@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AZ-AI-Language-PiiDetection", "AZ-AI-Language-PiiDetection\AZ-AI-Language-PiiDetection.csproj", "{F9A8018A-0895-4AD5-945A-333B8986BE6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9A8018A-0895-4AD5-945A-333B8986BE6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A8018A-0895-4AD5-945A-333B8986BE6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A8018A-0895-4AD5-945A-333B8986BE6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A8018A-0895-4AD5-945A-333B8986BE6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A5ED526-5EDD-480D-8D69-1A863C1CE14E}
+	EndGlobalSection
+EndGlobal
